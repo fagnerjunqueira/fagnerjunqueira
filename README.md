@@ -3,7 +3,6 @@
 - 🌱 Estudante de Sistemas de Informação na UFS
 - 💻 Aprendendo Flutter
 - 📫 Contato: fagnerjunqueira@hotmail.com
-- 😄 Pronomes: ele/dele
 #
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fagnerjunqueira&count_private=true&show_icons=true">
